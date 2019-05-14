@@ -2,5 +2,9 @@
   {
     "repository": "kernel_google_b4s4",
     "target_path": "kernel/google/b4s4"
+  },
+  {
+    "repository": "vendor_google_bonito",
+    "target_path": "vendor/google/bonito"
   }
 ]
