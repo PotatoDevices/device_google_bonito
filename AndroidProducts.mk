@@ -18,8 +18,12 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_bonito.mk \
     $(LOCAL_DIR)/aosp_sargo.mk \
     $(LOCAL_DIR)/aosp_bonito_hwasan.mk \
-    $(LOCAL_DIR)/aosp_sargo_hwasan.mk
+    $(LOCAL_DIR)/aosp_sargo_hwasan.mk \
+    $(LOCAL_DIR)/potato_bonito.mk \
+    $(LOCAL_DIR)/potato_sargo.mk
 
 COMMON_LUNCH_CHOICES := \
     aosp_bonito-userdebug \
-    aosp_sargo-userdebug
+    aosp_sargo-userdebug \
+    potato_bonito-userdebug \
+    potato_sargo-userdebug
