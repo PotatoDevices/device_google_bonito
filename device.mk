@@ -245,8 +245,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.audio.dualmic.config=endfire \
     persist.audio.in_mmap_delay_micros=100 \
     persist.audio.out_mmap_delay_micros=150 \
-    ro.config.vc_call_vol_steps=7 \
-    ro.config.media_vol_steps=25 \
     vendor.audio.offload.gapless.enabled=true \
 
 # MaxxAudio effect and add rotation monitor
