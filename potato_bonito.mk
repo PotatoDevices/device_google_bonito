@@ -24,6 +24,6 @@ TARGET_SCREEN_WIDTH := 1080
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="bonito"
 
-BUILD_FINGERPRINT := google/redfin/redfin:12/SQ3A.220605.009.A1/8643238:user/release-keys
+BUILD_FINGERPRINT := google/redfin/redfin:12/SQ3A.220705.003.A1/8672226:user/release-keys
 
 $(call inherit-product, vendor/google/bonito/bonito-vendor.mk)
